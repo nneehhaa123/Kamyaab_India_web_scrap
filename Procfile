@@ -1,0 +1,1 @@
+web: python Kamyaab_india_web_scrap.py

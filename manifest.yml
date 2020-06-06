@@ -1,0 +1,3 @@
+applications:
+ - name: Kamyaab_india_web_scrap
+   memory: 128M
